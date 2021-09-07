@@ -9,7 +9,7 @@ public class Animal {
     }
 
     public static void main(String[] args){
-        Animal charlie=new Animal();
+        Animal charlie = new Animal();
         charlie.eat();
         charlie.run();
     }
