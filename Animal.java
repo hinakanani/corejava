@@ -9,7 +9,7 @@ public class Animal {
     }
 
     public void newChange() {
-        System.out.println("Hi this is new method for test");
+        System.out.println("Hi this is new method for test!");
     }
 
     public static void main(String[] args){
